@@ -17,5 +17,5 @@ Para mais detalhes sobre o projeto e suas especificações, consulte o documento
 
 ## Vídeo
 
-- [Link para o vídeo de apresentação](placeholder)
+- [Link para o vídeo de apresentação](https://www.loom.com/share/5766991b36284a1bb5426ee6fc834b82?sid=7291591d-7298-4288-bb81-001d02b9f300)
 
